@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/4", {data:[{project:{id:4,name:"\u003CChess Game \u002F\u003E",tags:"#JS",homepic:"chess.png",swipic:"\u002Fchessswip.png",desc:"Made a javascript chess game using ES6.",url:"https:\u002F\u002Fibayoussef.github.io\u002FChess-Game"}}],fetch:{},mutations:[]});
